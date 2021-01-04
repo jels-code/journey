@@ -6,8 +6,8 @@ params:
         defaultTheme: auto # to switch between dark or light according to browser theme
         homeInfoParams:
                 Title: Hi there!
-                Content: Welcome to a computer science student’s story of the difficult but exciting journey to getting an internship at Google or a FAANG company for Summer 21’. Follow me through projects, Leetcode/interview preparation, and the job hunt; and hear my struggles alongside the accomplishments to hopefully reach the end goal. Enjoy.
+                Content: Welcome to a computer science student’s story of the difficult but exciting journey to getting an internship at Google or a FAANG company for Summer 21’. Follow me through projects, Leetcode/interview preparation, and the job hunt; and hear my struggles alongside the accomplishments to hopefully reach the end goal. Enjoy, - Jels.
 
         socialIcons:
                 - name: github
-                  url: "https://github.com/adityatelange/hugo-PaperMod"
+                  url: "https://github.com/jels-code"

@@ -55,3 +55,4 @@ Here's a quick sketch up of a timeline:
   ```
   Ta-da! Site is now live at [https://jels-code-journey.netlify.app/](https://jels-code-journey.netlify.app/). I'm actually very impressed with Hugo + Netlify, compared with other free options like Jekyll + GitHub Pages which I previously tried. In development, the site loads new changes without me having to refresh the page, and the deployment process is super fast and responsive. Highly recommend this for any blog or personal website if you're just looking for a simple way to publish content.
 
+*- Jels*
